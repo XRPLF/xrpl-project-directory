@@ -1,0 +1,20 @@
+#Template for Directory Project
+title = "Clever.Gallery"
+
+url = "https://clever.gallery/"
+
+description = "Clever.gallery is an NFT gallery and marketplace for art in which viewers of the work pay the artists and collectors through web monetization."
+
+contact = ""
+
+#date format YYYY-MM-DD
+modified_date = "2022-02-22"
+
+category = "NFT"
+
+twitter = "https://mobile.twitter.com/clevergallery"
+
+github = "https://github.com/clever-gallery"
+
+#tags for making this searchable
+tags = ["NFT"]

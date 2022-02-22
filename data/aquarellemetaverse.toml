@@ -7,6 +7,7 @@ description = "Aquarelle is an NFT art and game development studio working with 
 
 contact = "aquarelle.finance@gmail.com"
 
+#date format YYYY-MM-DD
 modified_date = "2022-02-22"
 
 category = "Metaverse"

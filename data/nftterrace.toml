@@ -1,0 +1,20 @@
+#Template for Directory Project
+title = "Trustline"
+
+url = "https://trustline.co/"
+
+description = "Trustline is a new startup developing a way to represent assets on the XRPL without a central counterparty. By leveraging the Flare Network, Trustline's decentralized bridging technology enables the XRPL to store any asset from the Flare Network, including FLR, DOGE, LTC, NFTs, and more -- all without a central counterparty. In the long term, they envision a trustless multi-hop bridge between the XRPL, Flare, and Bitcoin/Ethereum, allowing any major decentralized asset to be represented on the XRPL."
+
+contact = ""
+
+#date format YYYY-MM-DD
+modified_date = "2022-02-22"
+
+category = "DeFi"
+
+twitter = "https://twitter.com/TrustlineInc"
+
+github = ""
+
+#tags for making this searchable
+tags = ["wallet", "lending", "DeFi"]

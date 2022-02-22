@@ -1,0 +1,20 @@
+#Template for Directory Project
+title = "Bithomp"
+
+url = "https://bithomp.com/"
+
+description = "Bithomp is an XRPL explorer and toolkit, used by many cryptocurrency exchanges. Bithomp was launched in 2015 with a mission to build the most user-friendly XRPL explorer. Bithomp continues to update the explorer, add services, create tools, publish libraries, and since 2017 Bithomp operates an XRPL Validator, helping to maintain the decentralized ledger."
+
+contact = "support@bithomp.com"
+
+#date format YYYY-MM-DD
+modified_date = "2022-02-22"
+
+category = "explorer"
+
+twitter = "https://twitter.com/bithomp"
+
+github = "https://github.com/Bithomp"
+
+#tags for making this searchable
+tags = ["explorer"]
