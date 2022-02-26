@@ -10,7 +10,7 @@ class Parser():
 
     def __init__(self):
         session = HTMLSession()
-        self.r = session.get(self.url)
+        self.r = session.get(self.scrape_url)
         self.r.html.render()
         self.data = []
 
@@ -32,24 +32,43 @@ class Parser():
         
 class XRPLGranteeParser(Parser):
 
-    url = "https://xrplgrants.org/grantees"
+    scrape_url = "https://xrplgrants.org/grantees"
     
     def parse(self):
         for block in self.r.html.find(".grantee-block"):
             try:
                 url = block.find('h4')[0].find('a')[0].attrs['href']
             except IndexError:
-                url = ""
+                url = self.scrape_url
             title = block.find('h4')[0].text
             
             data = {'title': title,
-                    'url': url
+                    'url': url,
+                    'tags': ['xrplgrant']
+                    }
+
+            self.data.append(data)
+
+            
+class GftWGranteeParser(Parser):
+
+    scrape_url = "https://www.grantfortheweb.org/grantees"
+    
+    def parse(self):
+        for block in self.r.html.find(".grantee-item-content"):
+            title = block.find('h2')[0].text
+            
+            data = {'title': title,
+                    'tags': ['gftw'],
+                    'url': self.scrape_url,
                     }
 
             self.data.append(data)
 
 
 if __name__ == '__main__':
-    parser = XRPLGranteeParser()
-    parser.parse()
-    parser.write()
+#    parsers = [XRPLGranteeParser()]
+    parsers = [GftWGranteeParser()]
+    for parser in parsers:
+        parser.parse()
+        parser.write()
