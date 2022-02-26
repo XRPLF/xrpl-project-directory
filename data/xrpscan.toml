@@ -1,19 +1,2 @@
-#Entry for XRPScan
 title = "XRPScan"
-
 url = "https://xrpscan.com/"
-
-description = "XRPScan is the leading explorer for the XRP Ledger. Explore XRP Ledger, accounts, transactions, validators, amendments, metrics and charts."
-
-contact = "support@xrpscan.com"
-
-modified_date = "2022-02-21"
-
-category = "Explorer"
-
-twitter = "https://twitter.com/xrpscan"
-
-github = "https://github.com/xrpscan"
-
-#tags for making this searchable
-tags = ["xrpl", "explorer", "metrics", "ledger", "blocks"]

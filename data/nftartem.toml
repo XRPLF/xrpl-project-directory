@@ -1,20 +1,2 @@
-#Template for Directory Project
 title = "NFTArtem"
-
-url = "https://nftartem.com/"
-
-description = "NFTArtem creates an opportunity to tokenize, custody and sell physical art certificates of ownership to collectors and investors, helping trade art more freely, providing liquidity to the buyers and sellers."
-
-contact = ""
-
-#date format YYYY-MM-DD
-modified_date = "2022-02-22"
-
-category = "NFT"
-
-twitter = "https://mobile.twitter.com/nftartem"
-
-github = "https://github.com/dplaneta/nftartem"
-
-#tags for making this searchable
-tags = ["NFT"]
+url = ""
