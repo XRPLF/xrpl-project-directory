@@ -65,10 +65,31 @@ class GftWGranteeParser(Parser):
 
             self.data.append(data)
 
+class XRPArcadeParser(Parser):
+
+    scrape_url = "https://www.xrparcade.com/xrpecosystem/"
+    
+    def parse(self):
+        for block in self.r.html.find(".tablepress-id-6 tbody tr"):
+            title = block.find('.column-2')[0].text
+
+            try:
+                url = block.find('.column-3')[0].find('a')[0].attrs['href']
+            except IndexError:
+                url = self.scrape_url
+            
+            data = {'title': title,
+                    'tags': ['xrparcade'],
+                    'url': url,
+                    }
+
+            self.data.append(data)
+
 
 if __name__ == '__main__':
 #    parsers = [XRPLGranteeParser()]
-    parsers = [GftWGranteeParser()]
+#    parsers = [GftWGranteeParser()]
+    parsers = [XRPArcadeParser()]
     for parser in parsers:
         parser.parse()
         parser.write()
