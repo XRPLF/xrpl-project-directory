@@ -1,2 +1,5 @@
 title = "Scratch2Hooks"
-url = ""
+description = "Affiliation: University of Luxembourg (UBRI)\n\nScratch2Hooks is an extension to the Scratch (scratch.mit.edu) programming development framework, which is used by thousands of kids worldwide to learn how to program. The extension will allow people to visually develop Hooks smart contracts for the XRP Ledger. Advisor: Radu State"
+modified_date = "2022-02-28"
+url = "https://xrplgrants.org/grantees"
+tags = [ "xrplgrant",]

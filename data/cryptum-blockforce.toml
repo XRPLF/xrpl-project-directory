@@ -1,2 +1,5 @@
 title = "Cryptum / Blockforce"
-url = ""
+description = "Cryptum is an API/SDK platform for integrating the XRP Ledger with any application. It is developed by Blockforce, a tech consulting startup started in late 2017 and based in Brazil. Cryptum has a B2B SaaS model, and Blockforce has also built an open source plugin on top of the Cryptum API: a Woocommerce plugin for merchants to easily accept XRP, and also issue and offer NFTs. The Cryptum API/SDK supports creating a wallet, issuing a token (including NFTs), making transactions, and swapping tokens. Advisors: Adrian Kemmer, Eduardo Diniz"
+modified_date = "2022-02-28"
+url = "https://xrplgrants.org/grantees"
+tags = [ "xrplgrant",]

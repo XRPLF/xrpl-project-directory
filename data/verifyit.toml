@@ -1,2 +1,5 @@
 title = "VerifyIt"
-url = ""
+description = "VerifyIt aims to build a solution that will allow anyone in any industry to make storing data on the blockchain and verifying it as simple as calling an API endpoint. VerifyIt intends to provide users with two key services: allowing them to send data to add to the blockchain and allowing them to verify any data records are identical to that which they stored on the blockchain. This would enable companies within any vertical to begin using blockchain to improve the integrity of the data in their system. It would also allow companies who are using expensive, energy-inefficient cryptocurrencies to switch to XRP through the VerifyIt tool, which would be a cheaper and more eco-friendly alternative."
+modified_date = "2022-02-28"
+url = "https://xrplgrants.org/grantees"
+tags = [ "xrplgrant",]

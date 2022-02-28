@@ -1,2 +1,5 @@
 title = "Nautilus Wallet"
+description = "The Nautilus Wallet is a digital asset wallet for the digitally excluded, which accounts for half the population in emerging markets. Nautilus uses a combination of trusted execution environments and QR codes to provide users the ability to securely manage their digital assets with the help of a connector app. This app turns spaza shop (small local shops in South Africa) owners who typically have smartphones and manage cash, into connectors who facilitate payment and digital finance services for their community."
+modified_date = "2022-02-28"
 url = "https://www.ntls.io/"
+tags = [ "xrplgrant",]

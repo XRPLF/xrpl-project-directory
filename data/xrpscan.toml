@@ -1,2 +1,5 @@
 title = "XRPScan"
+description = "XRPScan is the largest XRPL explorer with a strong focus on presenting XRP Ledger validator, network and governance data in a format that's easy to understand. This project aims to bring independent, accurate XRP Ledger network data to the network participants. It will also support network participants, such as node operators, make informed choices about their UNLs, and provide support for NFT application builders."
+modified_date = "2022-02-28"
 url = "https://xrpscan.com/"
+tags = [ "xrplgrant",]

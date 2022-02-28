@@ -1,2 +1,5 @@
 title = "Aquarelle Metaverse"
-url = ""
+description = "Aquarelle is an NFT art and game development studio working with new artists and developers, particularly from India, to unleash their creativity across blockchains. They have released art NFTs on Ethereum and Cardano and have built a prototype 3D virtual gallery.\n\nFor this grant, Aquarelle will build a metaverse on the XRP Ledger. This project will connect the XRP community with three foundational aspects of this metaverse: (1) an open-source NFT library that lets users mint and transact art NFTs on the XRP ledger, (2) a web-based NFT marketplace that lets users mint, explore, buy and sell art NFTs, and (3) a WebGL 3D virtual gallery that lets users explore, customise and interact with NFT collections.\n\nAs part of this project, Aquarelle will employ and train a small group of Indian artists, developers and game designers, on the XRP ledger, NFTs and blockchain technology, in order to improve their current financial position, and provide them with future work opportunities in this emerging sector."
+modified_date = "2022-02-28"
+url = "https://xrplgrants.org/grantees"
+tags = [ "xrplgrant",]

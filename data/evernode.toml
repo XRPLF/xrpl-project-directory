@@ -1,2 +1,5 @@
 title = "Evernode"
+description = "Evernode brings “layer 2” smart contracts to the XRP Ledger. It combines the HotPocket protocol with the proposed Hooks amendment to create a global, permissionless, decentralised network of nodes designed and incentivised to run any dApp cheaply and speedily in any language at any scale - in concert with the XRP Ledger."
+modified_date = "2022-02-28"
 url = "https://evernode.wordpress.com/"
+tags = [ "xrplgrant",]

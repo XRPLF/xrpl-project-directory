@@ -1,2 +1,5 @@
 title = "Sentinel"
+description = "Enjoy the benefits offered by online wallet providers without giving out secret keys. Sentinel generates account access tokens with custom restrictions the user defines; it's like a mobile app for your XRP wallet."
+modified_date = "2022-02-28"
 url = "https://twitter.com/BrietoeBrown"
+tags = [ "xrplgrant",]

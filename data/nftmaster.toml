@@ -1,2 +1,5 @@
 title = "NFTMaster"
+description = "NFTMaster is an NFT marketplace that not only enables users to buy, mint and sell but also allows creators to develop NFT memberships on the XRPL. The membership that creators or companies develop can unlock exclusive digital content only available to token holders. NFTMaster will also provide a unique location-based system that allows users to discover NFTs geographically or utilize a membership as a ticket for events."
+modified_date = "2022-02-28"
 url = "https://twitter.com/nftmastercom"
+tags = [ "xrplgrant",]

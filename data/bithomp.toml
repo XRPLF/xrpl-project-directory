@@ -1,2 +1,5 @@
 title = "Bithomp"
-url = ""
+description = "Bithomp (\"bit-homp\") is an XRPL explorer and toolkit, used by many cryptocurrency exchanges. Bithomp was launched in 2015 with a mission to build the most user-friendly XRPL explorer. Bithomp continues to update the explorer, add services, create tools, publish libraries, and since 2017 Bithomp operates an XRPL Validator, helping to maintain the decentralized ledger."
+modified_date = "2022-02-28"
+url = "https://xrplgrants.org/grantees"
+tags = [ "xrplgrant",]

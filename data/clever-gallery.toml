@@ -1,2 +1,5 @@
 title = "Clever.gallery"
-url = ""
+description = "Clever.gallery is an NFT gallery and marketplace for art in which viewers of the work pay the artists and collectors through web monetization. Components include:\n\n\n1. Icy.art - immutable asset storage (requestor pays)\n2. I-see.art - the viewer for icy.art assets. It handles retrieval costs and paying the artist\n3. Clever.gallery - gallery and marketplace. The collector receives a (small) payment when their collection is viewed\n\nClever.gallery will be 100% open source, where it will be free to use for education and non-commercial research. At the core, Clever.gallery acts as an NFT explorer, displaying NFTs for the requested wallet or gallery. It will also enable any artist to mint a digital art NFT using native objects on the XRPL (XLS-20d)."
+modified_date = "2022-02-28"
+url = "https://xrplgrants.org/grantees"
+tags = [ "xrplgrant",]

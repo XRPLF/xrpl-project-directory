@@ -1,2 +1,5 @@
 title = "XDEX"
+description = "XDEX provides an innovative interface to the XRP Ledger's decentralized exchange. It empowers its users to buy, sell and manage every asset on the ledger, while providing additional features like a wallet portfolio, that tracks net worth and trading performance over time. It will be fully available for native iOS, Android and the web. The project's vision is to enable everyone around the globe to exchange any asset with anyone at any time."
+modified_date = "2022-02-28"
 url = "https://xdex.com/"
+tags = [ "xrplgrant",]

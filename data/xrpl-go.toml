@@ -1,2 +1,5 @@
 title = "Xrpl.go"
+description = "Xrpl.go will enable Go developers to interact with and build on the XRPL directly, unleashing the potential that XRP enthusiasts know is there. Go is one of the fastest-growing programming languages, so we need a way for Go developers to easily build here and we know that we have the passion and expertise from our previous work to make it a reality."
+modified_date = "2022-02-28"
 url = "https://xyield-labs.com/"
+tags = [ "xrplgrant",]

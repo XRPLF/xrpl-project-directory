@@ -1,3 +1,5 @@
+from datetime import datetime
+
 import os
 import re
 import toml
@@ -9,6 +11,7 @@ data_path = "data"
 class Parser():
 
     def __init__(self):
+        print("Scraping: ", self.scrape_url)
         session = HTMLSession()
         self.r = session.get(self.scrape_url)
         self.r.html.render()
@@ -41,8 +44,11 @@ class XRPLGranteeParser(Parser):
             except IndexError:
                 url = self.scrape_url
             title = block.find('h4')[0].text
+            description = block.find('.grantee-info p.text-base')[0].text
             
             data = {'title': title,
+                    'description': description,
+                    'modified_date': datetime.now().strftime("%Y-%m-%d"),
                     'url': url,
                     'tags': ['xrplgrant']
                     }
@@ -59,6 +65,7 @@ class GftWGranteeParser(Parser):
             title = block.find('h2')[0].text
             
             data = {'title': title,
+                    'modified_date': datetime.now().strftime("%Y-%m-%d"),
                     'tags': ['gftw'],
                     'url': self.scrape_url,
                     }
@@ -79,6 +86,7 @@ class XRPArcadeParser(Parser):
                 url = self.scrape_url
             
             data = {'title': title,
+                    'modified_date': datetime.now().strftime("%Y-%m-%d"),
                     'tags': ['xrparcade'],
                     'url': url,
                     }
@@ -87,9 +95,9 @@ class XRPArcadeParser(Parser):
 
 
 if __name__ == '__main__':
-#    parsers = [XRPLGranteeParser()]
+    parsers = [XRPLGranteeParser(), GftWGranteeParser(), XRPArcadeParser()]
 #    parsers = [GftWGranteeParser()]
-    parsers = [XRPArcadeParser()]
+#    parsers = [XRPArcadeParser()]
     for parser in parsers:
         parser.parse()
         parser.write()

@@ -1,2 +1,5 @@
 title = "OnTheDex.live"
+description = "OnTheDex.live provides up-to-the-ledger info and stats on all tokens traded, including data such as USD-equivalent market prices for all pairs, trading volumes, market capitalization, rolling 24h/7d/30d stats, rich lists and transaction explorer for any token. Users can see DEX and CEX data side-by-side when tokens trade from multiple sources and promote genuine XRPL token growth with trust metrics and ratings. OnTheDex.live also provides third-party APIs to allow services such as CoinMarketCap, CoinGecko, LCW etc. to aggregate trusted ledger token trading information and promote DEX tokens on their services."
+modified_date = "2022-02-28"
 url = "https://www.onthedex.live/"
+tags = [ "xrplgrant",]

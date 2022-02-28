@@ -1,2 +1,5 @@
 title = "XRPL Datamart"
+description = "XRPL Datamart is an open-source reporting engine for generating reports and analytics for XRPL main and sidechains. The reports are plug and play with different output formats such as PDF, CSV, Excel, JSON, etc. These are customizable and help developers with seamless reporting in mobile and web apps. In addition, the periodic sync function will create an XRPL Datamart in their choice of database and avoid querying the XRPL ledger. Reporting use cases such as contract execution, transactions, balances, and batch interfacing with other external applications will be standardized and shared."
+modified_date = "2022-02-28"
 url = "https://heroapps.sg"
+tags = [ "xrplgrant",]

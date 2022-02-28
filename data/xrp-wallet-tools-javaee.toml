@@ -1,2 +1,5 @@
 title = "XRP Wallet Tools - JavaEE"
-url = ""
+description = "XRP Wallet Tools is a JavaEE-based web application that enables users to interact with the XRP Ledger. It supports NFT minting and various XRPL transactions."
+modified_date = "2022-02-28"
+url = "https://xrplgrants.org/grantees"
+tags = [ "xrplgrant",]

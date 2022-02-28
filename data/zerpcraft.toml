@@ -1,2 +1,5 @@
 title = "ZerpCraft"
-url = ""
+description = "ZerpCraft brings XRP Ledger technology to Minecraft. The ZerpCraft plugin will enable players to mint NFTs representing virtual \"real estate\" they own in multiplayer worlds. The Internet of Value enables fast, frictionless, low-cost payments, enabling video game content creators to monetize their work. The video game industry is perfect for the IoV because of its size ($167 billion in 2020 global revenue) and an interconnectedness that dwarfs other entertainment media. Minecraft has over 100 million monthly active users, a large content creator ecosystem, and a multi-generational user base. ZerpCraft will bridge the XRPL with Minecraft to enable XRP transacting, NFT issuance, and in-game \"property rights.\""
+modified_date = "2022-02-28"
+url = "https://xrplgrants.org/grantees"
+tags = [ "xrplgrant",]

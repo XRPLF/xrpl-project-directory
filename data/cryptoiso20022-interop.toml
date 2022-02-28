@@ -1,2 +1,5 @@
 title = "CryptoIso20022 Interop"
-url = ""
+description = "CryptoIso20022 Interop is a product to simplify accounting workflows for SMEs. Currently, users in accounting have to export payment instructions in ISO 20022 formats. This project automates the transformation of fiat payments into crypto payments and executes them. The component is compatible with existing functionality in accounting software, and brings real-time payments to a process that currently takes days."
+modified_date = "2022-02-28"
+url = "https://xrplgrants.org/grantees"
+tags = [ "xrplgrant",]

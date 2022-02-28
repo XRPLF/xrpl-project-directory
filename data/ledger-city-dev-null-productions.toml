@@ -1,2 +1,5 @@
 title = "Ledger City / Dev Null Productions"
-url = ""
+description = "Ledger City is a 3D visualization of the XRP Ledger. Collectable assets, implemented as NFTs, can be purchased from Dev Null Productions and placed on buildings by account owners to customize their appearances. It will be the easiest way to visualize the Internet of Value in a fun and interactive way."
+modified_date = "2022-02-28"
+url = "https://xrplgrants.org/grantees"
+tags = [ "xrplgrant",]

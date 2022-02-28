@@ -1,2 +1,5 @@
 title = "Ledgr"
-url = ""
+description = "Ledgr is a graph analysis tool to help visualize and analyze the graph structures available on the XRPL Ledger such as payments and account activations, that could prove useful in investigation, compliance and risk management."
+modified_date = "2022-02-28"
+url = "https://xrplgrants.org/grantees"
+tags = [ "xrplgrant",]

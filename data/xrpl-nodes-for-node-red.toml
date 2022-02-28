@@ -1,2 +1,5 @@
 title = "XRPL nodes for Node-RED"
-url = ""
+description = "Have a great blockchain idea but lack the coding skills to build it? Node-Red is a visual programming tool that you can use to create connections between apps, social media, the Internet of Things, hardware, and online services - with no code! Coupled with the XRP Ledger, you can build a fast, eco-friendly blockchain app without the need for extensive programming knowledge. You can rapid-prototype an XRP Tipbot, an XRP subscription service, an automatic payment, an XRP point-of-sale terminal, an XRPL Twitter bot -- the list is endless. Samples of these, and other apps, using node-red-contrib-xrpl will be shared in the near future. Follow on Twitter »"
+modified_date = "2022-02-28"
+url = "https://xrplgrants.org/grantees"
+tags = [ "xrplgrant",]

@@ -1,2 +1,5 @@
 title = "XRPhone"
+description = "XRPhone will enable customers to seamlessly pay invoices over the phone with XRP while keeping the merchant's existing invoice system synced."
+modified_date = "2022-02-28"
 url = "https://xrphone.app/"
+tags = [ "xrplgrant",]

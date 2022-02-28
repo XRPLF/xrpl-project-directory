@@ -1,2 +1,5 @@
 title = "Go4Zerps"
-url = ""
+description = "Go4Zerps is a Golang SDK for integrating with the XRP Ledger. It will increase XRPL's appeal to developers, enabling a new generation of entrepreneurs and apps to create value and expand the network. By integrating with XUMM, the Go SDK will provide a solid foundation for backend developers to build amazing apps for the XRP community."
+modified_date = "2022-02-28"
+url = "https://xrplgrants.org/grantees"
+tags = [ "xrplgrant",]

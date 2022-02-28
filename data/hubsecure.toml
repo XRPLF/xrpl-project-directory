@@ -1,2 +1,5 @@
 title = "HubSecure"
-url = ""
+description = "HubSecure will make the adoption of blockchain easier for corporate and private users by enabling them to safely secure their files, without prior knowledge of the XRP Ledger. HubSecure will bundle technology from an existing AML (anti-money laundering) platform and a sidechain for the XRP Ledger with an open-source API. Files will be decentralized and temper proof, and it will be possible to share selected files with colleagues, friends or family."
+modified_date = "2022-02-28"
+url = "https://xrplgrants.org/grantees"
+tags = [ "xrplgrant",]

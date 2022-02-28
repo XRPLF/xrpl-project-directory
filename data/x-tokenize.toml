@@ -1,2 +1,5 @@
 title = "X-Tokenize"
+description = "X-Tokenize is a tool that simplifies the minting, management, distribution and sale of issued currencies and NFTs on the XRPL. Integrating the XRPL into a project or business unlocks a new realm of opportunities and business models. No matter what the use case is, X-Tokenize has it covered with its customizable plug and deploy tokenomic profiles to get a project up and running in just a few minutes. The simplicity and core features of X-Tokenize enable users to harness the power of digital ledger technology without all of the initial overhead and development."
+modified_date = "2022-02-28"
 url = "https://twitter.com/xTokenize"
+tags = [ "xrplgrant",]

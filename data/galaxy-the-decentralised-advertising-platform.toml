@@ -1,2 +1,5 @@
 title = "Galaxy: The Decentralised Advertising Platform"
-url = ""
+description = "Galaxy is an advertising platform built on decentralised technology, allowing for both digital publishing and advertising to exist on one platform, managed by its stakeholders, with fast and reliable clearing via XRPL. It will provide digital publishers and content creators a more direct method to fund their content, and provide advertisers direct access to publishers without the supply chain issues prevalent in the existing industry (where up to 49% of ad dollars are taken by intermediaries.)\n\nThis implementation of Galaxy is intended to work with the XRP Ledger to support fast and reliable clearing. Galaxy is designed to integrate with a digital publisher's existing advertising technology stack through Prebid.js. This provides an easy way of adding support for Galaxy alongside existing sources of demand."
+modified_date = "2022-02-28"
+url = "https://xrplgrants.org/grantees"
+tags = [ "xrplgrant",]

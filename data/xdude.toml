@@ -1,2 +1,5 @@
 title = "xDude"
+description = "XDude is an XRPL token, giving anyone who obtains such a token the ability to mint a unique NFT once it’s supported on the ledger. Each NFT is crafted manually by a freelance artist, which ensures high-quality, unique work."
+modified_date = "2022-02-28"
 url = "https://www.xdude.live/"
+tags = [ "xrplgrant",]

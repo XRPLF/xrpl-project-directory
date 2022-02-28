@@ -1,2 +1,5 @@
 title = "Xchange Retail Payments"
-url = ""
+description = "This project is to build an XRP Ledger Gateway in the UK, which will issue currencies to be traded on the XRPL's decentralized exchange. In the next phase, the team aims to develop a point-of-sale terminal powered by XUMM, allowing various digital currencies to be used to purchase products."
+modified_date = "2022-02-28"
+url = "https://xrplgrants.org/grantees"
+tags = [ "xrplgrant",]
