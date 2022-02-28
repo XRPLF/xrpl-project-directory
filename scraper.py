@@ -8,7 +8,7 @@ from requests_html import HTMLSession
 
 data_path = "data"
 
-class Parser():
+class Scraper():
 
     def __init__(self):
         print("Scraping: ", self.scrape_url)
@@ -33,7 +33,7 @@ class Parser():
                 toml.dump(d, f)
 
         
-class XRPLGranteeParser(Parser):
+class XRPLGranteeScraper(Scraper):
 
     scrape_url = "https://xrplgrants.org/grantees"
     
@@ -56,7 +56,7 @@ class XRPLGranteeParser(Parser):
             self.data.append(data)
 
             
-class GftWGranteeParser(Parser):
+class GftWGranteeScraper(Scraper):
 
     scrape_url = "https://www.grantfortheweb.org/grantees"
     
@@ -72,7 +72,7 @@ class GftWGranteeParser(Parser):
 
             self.data.append(data)
 
-class XRPArcadeParser(Parser):
+class XRPArcadeScraper(Scraper):
 
     scrape_url = "https://www.xrparcade.com/xrpecosystem/"
     
@@ -95,9 +95,9 @@ class XRPArcadeParser(Parser):
 
 
 if __name__ == '__main__':
-    parsers = [XRPLGranteeParser(), GftWGranteeParser(), XRPArcadeParser()]
-#    parsers = [GftWGranteeParser()]
-#    parsers = [XRPArcadeParser()]
-    for parser in parsers:
-        parser.parse()
-        parser.write()
+    scrapers = [XRPLGranteeScraper(), GftWGranteeScraper(), XRPArcadeScraper()]
+#    scrapers = [GftWGranteeScraper()]
+#    scrapers = [XRPArcadeScraper()]
+    for scraper in scrapers:
+        scraper.parse()
+        scraper.write()
